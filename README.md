@@ -1,6 +1,6 @@
 ## ✨ Hi there! I'm Rafael Coelho ✨
 
-First of all I am Software Developer and my main mantra is **Talk is cheap. Show me the code.**
+First of all I am Software Developer and my main mantra is **Talk is cheap. Show me the code. (Linus Torvalds)**
 
 Software advocate (architect, tester, analyst, agilist and so on) basically a DEVELOPER! He is passionate about software and system development applying best practices and **productive methodologies ever** (fully based on innovation from daily basis) because **in the end of the day** the only thing that really matters is the **software working in production**.
 
