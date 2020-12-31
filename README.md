@@ -1,4 +1,14 @@
-### Hi there 👋
+## ✨ Hi there! I'm Rafael Coelho ✨
+
+First of all I am Software Developer and my main mantra is **Talk is cheap. Show me the code.**
+
+Software advocate (architect, tester, analyst, agilist and so on) basically a DEVELOPER! He is passionate about software and system development applying best practices and **productive methodologies ever** (fully based on innovation from daily basis) because **in the end of the day** the only thing that really matters is the **software working in production**.
+
+You can find me on Twitter at [@rscoelho](https://twitter.com/rsacoelho) and on Linkedin at [www.linkedin.com/in/rscoelho](www.linkedin.com/in/rscoelho)
+
+[![Rafael Coelho's github stats](https://github-readme-stats.vercel.app/api?username=rafaelcoelho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rafaelcoelho&show_icons=true&theme=radical&layout-compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rafaelcoelho/rafaelcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
