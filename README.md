@@ -4,7 +4,7 @@ First of all he is Software Developer and his main mantra is **Talk is cheap. Sh
 
 The main cause of him is Software Advocating (architect, tester, analyst, agilist and so on) basically extending for a solid DEVELOPER! After his family he is passionate by **motorcycle** and about software/system development applying best practices and always **productive methodologies** (fully based on innovation from daily basis) because **in the end of the day** the only thing that really matters is the **software working in production**.
 
-You can find me on Twitter at [@rsacoelho](https://twitter.com/rsacoelho) and on Linkedin at [www.linkedin.com/in/rscoelho](www.linkedin.com/in/rscoelho)
+You can find me on Twitter at [@rsacoelho](https://twitter.com/rsacoelho) and on Linkedin at [www.linkedin.com/in/rscoelho](https://www.linkedin.com/in/rscoelho/)
 
 [![Rafael Coelho's github stats](https://github-readme-stats.vercel.app/api?username=rafaelcoelho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
