@@ -1,4 +1,4 @@
-## ✨ Hi there! I'm Rafael Coelho ✨
+## ✨ Hi there! This is Rafael Coelho ✨
 
 First of all he is Software Developer and his main mantra is **Talk is cheap. Show me the code. (Torvalds Linus)**
 
